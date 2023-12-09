@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=shmkvdmd&style=flat-square&color=blue" alt=""/>
 
-### :green_heart: Stats :
+### :green_heart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmkvdmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
