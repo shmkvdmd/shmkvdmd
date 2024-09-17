@@ -6,11 +6,11 @@
 <p>Major training projects on which I gained invaluable experience:</p>
 <ul>
   <li>
-     <img src="https://img.icons8.com/?size=100&id=67369&format=png&color=000000" alt="image_converter" width="16" height="16" />
+     <img src="https://img.icons8.com/?size=100&id=67369&format=png&color=000000" alt="image_converter" width="32" height="32" />
      <a href="https://github.com/shmkvdmd/ImageConverter">ImageConverter <strong>/ BMP/JPEG/PPM</strong></a>
   </li>
   <li>
-     <img src="https://img.icons8.com/?size=100&id=115345&format=png&color=000000" alt="transport_catalogue" width="16" height="16" />
+     <img src="https://img.icons8.com/?size=100&id=115345&format=png&color=000000" alt="transport_catalogue" width="32" height="32" />
      <a href="https://github.com/shmkvdmd/TransportCatalogue">TransportCatalogue<strong>/ JSON/SVG</strong></a>
   </li>
 </ul>
@@ -18,19 +18,19 @@
 <ul>
 <li>
   <strong>  
-    <img src="https://img.icons8.com/?size=100&id=zBjddwJhT2N3&format=png&color=000000" alt="calculator" width="16" height="16" />
+    <img src="https://img.icons8.com/?size=100&id=zBjddwJhT2N3&format=png&color=000000" alt="calculator" width="32" height="32" />
     <a href="https://github.com/shmkvdmd/SimpleCalc">Simple calculator <strong>/ Qt</strong></a>
   </strong>
 </li>
 <li>
   <strong>  
-    <img src="https://img.icons8.com/?size=100&id=9EIIZEUi8g5O&format=png&color=000000" alt="binary_image" width="16" height="16" />
+    <img src="https://img.icons8.com/?size=100&id=9EIIZEUi8g5O&format=png&color=000000" alt="binary_image" width="32" height="32" />
     <a href="https://github.com/shmkvdmd/Binary-Image-Converter"> Binary|Image converter <strong>/ Qt</strong></a>
   </strong>   
 </li>
 <li>
   <strong>  
-    <img src="https://img.icons8.com/?size=100&id=Tyvm9OHLYf8o&format=png&color=000000" alt="event_tracker" width="16" height="16" />
+    <img src="https://img.icons8.com/?size=100&id=Tyvm9OHLYf8o&format=png&color=000000" alt="event_tracker" width="32" height="32" />
     <a href="https://github.com/exp-ext/comment_tree"> SimpleEventTracker <strong>/ Qt/SQLite</strong></a>
   </strong>
 </li>
@@ -39,7 +39,7 @@
 <p>My solutions to some algorithms:</p>
 <ul>
   <li>
-    <img src="https://img.icons8.com/?size=100&id=y5cMsTWVQ8Kp&format=png&color=000000" alt="algorithm" width="16" height="16" />
+    <img src="https://img.icons8.com/?size=100&id=y5cMsTWVQ8Kp&format=png&color=000000" alt="algorithm" width="32" height="32" />
     <a href="https://github.com/shmkvdmd/Algorithms">Algorithms</a> 
   </li>
 </ul>
