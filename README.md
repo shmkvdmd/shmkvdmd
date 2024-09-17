@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&text=Demid%20Shumkov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+Demid+Shumkov;My+specialization+C%2B%2B+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+Demid+Shumkov;My+specialization+is+C%2B%2B+Developer;)
 
 
 <p>Major training projects on which I gained invaluable experience:</p>
