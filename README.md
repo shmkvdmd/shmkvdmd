@@ -31,7 +31,7 @@
 <li>
   <strong>  
     <img src="https://img.icons8.com/?size=100&id=Tyvm9OHLYf8o&format=png&color=000000" alt="event_tracker" width="32" height="32" />
-    <a href="https://github.com/exp-ext/comment_tree"> SimpleEventTracker <strong>/ Qt/SQLite</strong></a>
+    <a href="https://github.com/shmkvdmd/SimpleEventTracker"> SimpleEventTracker <strong>/ Qt/SQLite</strong></a>
   </strong>
 </li>
 </ul>
