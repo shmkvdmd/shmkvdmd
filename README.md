@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=00bfbf&text=Demid%20Shumkov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+Demid+Shumkov;My+specialization+is+C%2B%2B+Developer;)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Demid+Shumkov;My+specialization+is+Software+Developer)](https://git.io/typing-svg)
 <p>Major training projects on which I gained invaluable experience:</p>
 <ul>
   <li>
@@ -54,11 +52,14 @@
   
 <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=shmkvdmd&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="shmkvdmd github stats" />
 
-  <h3 > Main Skills </h3>
+  <h3 > Main С++ Skills </h3>
   <img src="https://skillicons.dev/icons?i=cpp,postgres,sqlite,cmake,qt" />
 
+  <h3 > Main Java Skills </h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,kafka,maven,rabbitmq" />
+
   <h3> Tools </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,obsidian" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,docker,linux,obsidian" />
  
   <h3> </h3>
   
